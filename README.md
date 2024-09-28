@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gregory-McCoy
+- 👀 I’m interested in Nuclear Engineering
+- 💞️ I’m looking to collaborate on Open Source Projects
+- 😄 Pronouns: He/Him
